@@ -7,7 +7,7 @@
 Building reliable products across web, mobile, backend, and AI — with a strong
 focus on practical user experience, maintainable systems, and privacy by design.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gorbypermana.my.id-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gorbypermana.my.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gorby.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://gorby.vercel.app)
 [![X](https://img.shields.io/badge/@gorbypermana-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gorbypermana)
 [![GitHub followers](https://img.shields.io/github/followers/cybersafetyid?style=for-the-badge&logo=github&label=Follow)](https://github.com/cybersafetyid?tab=followers)
 
